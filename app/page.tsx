@@ -153,7 +153,7 @@ export default function Home() {
         <div className="container flex h-16 items-center justify-between">
           <a href="#home" className="text-[#20f2ff] font-mono text-xl font-bold flex items-center gap-2">
             <Hexagon className="h-5 w-5" />
-            <span>NOVA</span>
+            <span>JOSÉ</span>
           </a>
 
           <button
