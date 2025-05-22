@@ -397,7 +397,7 @@ export default function Home() {
                   <div className="w-full h-full overflow-hidden rounded-lg relative">
                     <div className="absolute inset-0 bg-gradient-to-br from-[#20f2ff]/20 to-[#ff2cf4]/20 z-10"></div>
                     <img
-                      src="/code-b.png"
+                      src="/code-c.png"
                       alt="JOSE"
                       className="w-full h-full object-cover"
                     />
