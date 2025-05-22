@@ -626,13 +626,15 @@ export default function Home() {
                 },
                 {
                   title: "DevOps & Cloud",
-                  description: "Containerization and cloud infrastructure",
+                  description: "Containerization and cloud infrastructure and monitoring",
                   skills: [
                     { name: "Docker", level: 80 },
                     { name: "Kubernetes", level: 75 },
                     { name: "GCP", level: 70 },
                     { name: "Git", level: 85 },
                     { name: "Linux", level: 85 },
+                    { name: "Grafana", level: 70 },
+                    { name: "Prometheus", level: 65},
                   ],
                   color: "pink",
                 },
